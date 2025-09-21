@@ -11,10 +11,24 @@
             "id": "8dbab8771335bf02",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "索拉-3/索拉-3星系.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "索拉-3星系"
             }
           }
         ]
@@ -175,16 +189,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8dbab8771335bf02",
+  "active": "28ec0d1e39358d3b",
   "lastOpenFiles": [
-    "阿瓦塔斯联合.md",
-    "索拉-3/索拉-3星系.md",
-    "大改组.md",
-    "阿瓦塔斯.md",
-    "索拉-3/极星（索拉-3A）.md",
-    "索拉-3/极星集团.md",
     "索拉-3/索拉-3α.md",
     "索拉-3/索拉-3β.md",
+    "索拉-3/极星（索拉-3A）.md",
+    "索拉-3/索拉-3星系.md",
+    "阿瓦塔斯.md",
+    "阿瓦塔斯联合.md",
+    "大改组.md",
+    "索拉-3/极星集团.md",
     "极星集团.md",
     "索拉-3",
     "LICENSE",
