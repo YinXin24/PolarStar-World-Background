@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "索拉-3/极星集团.md",
+                "file": "索拉-3/索拉-3α.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "极星集团"
+              "title": "索拉-3α"
             }
           }
         ]
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,15 +191,15 @@
   },
   "active": "8dbab8771335bf02",
   "lastOpenFiles": [
-    "索拉-3/索拉-3星系.md",
-    "索拉-3/索拉-3α.md",
     "索拉-3/索拉-3β.md",
-    "索拉-3/极星（索拉-3A）.md",
-    "索拉-3/极星集团.md",
     "阿瓦塔斯联合.md",
-    "新建文本文档.txt",
     "大改组.md",
     "阿瓦塔斯.md",
+    "索拉-3/索拉-3α.md",
+    "索拉-3/索拉-3星系.md",
+    "索拉-3/极星（索拉-3A）.md",
+    "索拉-3/极星集团.md",
+    "新建文本文档.txt",
     "极星集团.md",
     "索拉-3",
     "LICENSE",
