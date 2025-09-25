@@ -1,5 +1,6 @@
 ---
-author: Zlockhart
+author: 
+  - Zlockhart
 tags:
   - 人物
 ---
