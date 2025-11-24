@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.tags.contains("人物")
+    order:
+      - file.name
+      - file.folder
+    image: file.file
