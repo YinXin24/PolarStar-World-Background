@@ -5,7 +5,7 @@ author:
 tags:
   - 天文/恒星
 map-color: "#803838"
-star-temperature-k: 1000
+star-temperature-k: 3540
 star-granulation-scale: 20
 star-corona-intensity: 1.42
 star-corona-size: 1.35
